@@ -5,6 +5,8 @@ body {
     align-items: center;
     padding: 0;
     margin: 0;
+    background: url(images/pattern-background-desktop.svg), #e1e9ff;
+    background-repeat: no-repeat, no-repeat;
     background-color: hsl(225, 100%, 94%);
     font-family: 'Red Hat Display', sans-serif;
 }
